@@ -5,4 +5,5 @@ testing patch usages
 rebase test
 isolated in branch featureA
 this is a hotfix
+cherry-pick
 testing rebase while pull
